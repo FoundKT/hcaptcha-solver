@@ -37,6 +37,18 @@ You can use https://teachablemachine.withgoogle.com/ this site to make ai if you
   <b>Click <a href="https://jh-shop.kr/discord">here</a> to join my discord server.</b>
 </p>
 
+# Donation
+
+BTC 1K8ztkvNP69G5ATshL18x8nmi4kEjowpQR<br>
+
+BCH bitcoincash:qrr0tqyqzgf3jpst3s8dqpjz7hepc6m8t5zjpym3ln<br>
+
+LTC ltc1qgxlymx27q4vg29v5mp4v2sqt5jezdzygaxum5v
+
+ETH 0x0F2e1f689A9123803B001090505B2C2258796E09<br>
+
+DOGE DNwAWxDWDvEBSkBedZNpMNnTU6Eyhu6CsS
+
 # Gay
 
-I love python keras.
+I love python keras.<br>
