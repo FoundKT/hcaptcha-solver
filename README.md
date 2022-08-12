@@ -1,2 +1,12 @@
 # hcaptcha-ai-resources
-This repository is about resources to teach tensorflow ai (hcaptcha).
+
+This repository is about tensorflow ai (hcaptcha).
+
+
+# Files
+
+Teached tensorflow ai (Epoch 100):
+https://jh-shop.kr/private/hcaptcha/learned_h5/keras_2022-08-11_1.h5
+
+Hcaptcha images (Classificated):
+https://jh-shop.kr/private/hcaptcha/images_tgz/hcaptcha_2022-08-12_1.tgz
