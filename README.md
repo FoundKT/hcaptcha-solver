@@ -4,7 +4,7 @@
   <b>This repository is about keras ai (hcaptcha).</b><br>
   <b>Resources for ai will be uploaded.</b><br>
   <br>
-  <img src='https://ps.w.org/hcaptcha-for-forms-and-more/assets/banner-1544x500.png?rev=2500496'>
+  <img src='https://cdn.discordapp.com/attachments/930627015399317564/1007618967151587399/banner-1544x500.png?size=4096'>
 </p>
 
 ----
