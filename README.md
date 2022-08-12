@@ -11,7 +11,7 @@
 <p>
   <b>Teached keras ai:</b><br>
   <b>https://jh-shop.kr/private/hcaptcha/learned_h5/keras_2022-08-11_1.h5</b><br>
-  <b> -> Epoch 100</b>
+  <b> -> Epoch 100</b><br>
   <b> -> 41 Classes</b>
   
   <b>Hcaptcha images (Classificated):</b><br>
