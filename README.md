@@ -3,13 +3,15 @@
 <p align='center'>
   <b>This repository is about keras ai (hcaptcha).</b><br>
   <b>Resources for ai will be uploaded.</b><br>
+  <br>
+  <img src='https://ps.w.org/hcaptcha-for-forms-and-more/assets/banner-1544x500.png?rev=2500496'>
 </p>
 
 ----
 
 <br><br>
 
-# Files
+> # Files
 
 <p>
   <b>Teached keras ai:</b><br>
@@ -31,17 +33,17 @@
   <b> -> Total 41 classes</b>
 </p>
 
-# You can use this
+> # You can use this
 
 You can use https://teachablemachine.withgoogle.com/ this site to make ai if you are fucking toolkiddie.
 
-# Discord
+> # Discord
 
 <p>
   <b>Click <a href="https://jh-shop.kr/discord">here</a> to join my discord server.</b>
 </p>
 
-# Donation
+> # Donation
 
 BTC 1K8ztkvNP69G5ATshL18x8nmi4kEjowpQR<br>
 
@@ -53,6 +55,6 @@ ETH 0x0F2e1f689A9123803B001090505B2C2258796E09<br>
 
 DOGE DNwAWxDWDvEBSkBedZNpMNnTU6Eyhu6CsS
 
-# Gay
+> # Gay
 
 I love python keras.<br>
