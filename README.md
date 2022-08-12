@@ -35,3 +35,9 @@ You can use https://teachablemachine.withgoogle.com/ this site to make ai if you
 # Gay
 
 I love python keras.
+
+# Discord
+
+<p>
+  <b>Click <a href="https://jh-shop.kr/discord">here</a> to join my discord server.</b>
+</p>
