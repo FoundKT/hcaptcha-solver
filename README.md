@@ -18,13 +18,13 @@
   <b>https://jh-shop.kr/private/hcaptcha/images_tgz/hcaptcha_2022-08-12_2.tgz</b><br>
   <b> -> Class list:</b><br>
   <b> -> -> </b>flag_airplane, flag_bicycle, flag_motorboat, flag_motorbus, flag_motorcycle, flag_sailboat, flag_seaplane<br>
-  <b> -> -> flag_train, flag_truck, unflag_airplane, unflag_airplane-watching-left, unflag_bedroom, unflag_bicycle</b><br>
-  <b> -> -> unflag_bird-parrot, unflag_bridge, unflag_bus, unflag_car, unflag_car-with-snow, unflag_cheetah</b><br>
-  <b> -> -> unflag_conference-room unflag_dog, unflag_dog-with-a-collar-on-its-neck, unflag_dog-with-closed-eyes</b><br>
-  <b> -> -> unflag_elephant, unflag_elephant-made-of-clouds, unflag_giraffe, unflag_horse</b><br>
-  <b> -> -> unflag_horse-made-of-clouds, unflag_lion, unflag_domestic-cat, unflag_lion-with-mane-on-its-neck</b><br>
-  <b> -> -> unflag_living-room, unflag_motorboat, unflag_motorbus, unflag_motorcycle, unflag_sailboat</b><br>
-  <b> -> -> unflag_seaplane, unflag_smiling-dog, unflag_train, unflag_truck, unflag_vertical-river</b><br>
+  <b> -> -> </b>flag_train, flag_truck, unflag_airplane, unflag_airplane-watching-left, unflag_bedroom, unflag_bicycle<br>
+  <b> -> -> </b>unflag_bird-parrot, unflag_bridge, unflag_bus, unflag_car, unflag_car-with-snow, unflag_cheetah<br>
+  <b> -> -> </b>unflag_conference-room unflag_dog, unflag_dog-with-a-collar-on-its-neck, unflag_dog-with-closed-eyes<br>
+  <b> -> -> </b>unflag_elephant, unflag_elephant-made-of-clouds, unflag_giraffe, unflag_horse<br>
+  <b> -> -> </b>unflag_horse-made-of-clouds, unflag_lion, unflag_domestic-cat, unflag_lion-with-mane-on-its-neck<br>
+  <b> -> -> </b>unflag_living-room, unflag_motorboat, unflag_motorbus, unflag_motorcycle, unflag_sailboat<br>
+  <b> -> -> </b>unflag_seaplane, unflag_smiling-dog, unflag_train, unflag_truck, unflag_vertical-river<br>
   <b> -> Total 41 classes</b>
 </p>
 
