@@ -1,6 +1,8 @@
 <h1 align="center">Hcaptcha AI</h1>
 
-This repository is about tensorflow ai (hcaptcha).
+<p align='center'>
+  <b>This repository is about tensorflow ai.</b><br>
+</p>
 
 
 # Files
