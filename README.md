@@ -18,9 +18,9 @@
   <b>https://jh-shop.kr/private/hcaptcha/images_tgz/hcaptcha_2022-08-12_2.tgz</b><br>
   <b> -> Class list:</b><br>
   <b> -> -> flag_airplane, flag_bicycle, flag_motorboat, flag_motorbus, flag_motorcycle, flag_sailboat, flag_seaplane</b><br>
-  <b> -> -> flag_train, flag_truck, unflag_airplane, unflag_airplane-watching-left, unflag_bedroom, unflag_bicycle, unflag_bird-parrot</b><br>
-  <b> -> -> unflag_bridge, unflag_bus, unflag_car, unflag_car-with-snow, unflag_cheetah, unflag_conference-room, unflag_dog</b><br>
-  <b> -> -> unflag_dog-with-a-collar-on-its-neck, unflag_dog-with-closed-eyes, unflag_domestic-cat, unflag_elephant</b><br>
+  <b> -> -> flag_train, flag_truck, unflag_airplane, unflag_airplane-watching-left, unflag_bedroom, unflag_bicycle</b><br>
+  <b> -> -> unflag_bird-parrot, unflag_bridge, unflag_bus, unflag_car, unflag_car-with-snow, unflag_cheetah, unflag_conference-room</b><br>
+  <b> -> -> unflag_dog, unflag_dog-with-a-collar-on-its-neck, unflag_dog-with-closed-eyes, unflag_domestic-cat, unflag_elephant</b><br>
   <b> -> -> unflag_elephant-made-of-clouds, unflag_giraffe, unflag_horse, unflag_horse-made-of-clouds, unflag_lion, unflag_lion</b><br>
   <b> -> -> unflag_lion-with-mane-on-its-neck, unflag_living-room, unflag_motorboat, unflag_motorbus, unflag_motorcycle, unflag_sailboat</b><br>
   <b> -> -> unflag_seaplane, unflag_smiling-dog, unflag_train, unflag_truck, unflag_vertical-river</b><br>
