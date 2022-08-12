@@ -17,7 +17,7 @@
   [!] Epoch 100<br>
   [!] 41 Classes<br>
   <br>
-  Click [here](https://jh-shop.kr/private/hcaptcha/learned_h5/keras_2022-08-11_1.h5) to download
+  Click <a href="https://jh-shop.kr/private/hcaptcha/learned_h5/keras_2022-08-11_1.h5">here</a> to download
 </p>
 
 > # File | Hcaptcha images (datasets)
@@ -35,7 +35,7 @@
   <br>
   [!] Total 41 classes<br>
   <br>
-  Click [here](https://jh-shop.kr/private/hcaptcha/images_tgz/hcaptcha_2022-08-12_2.tgz) to download
+  Click <a href="https://jh-shop.kr/private/hcaptcha/images_tgz/hcaptcha_2022-08-12_2.tgz">here</a> to download
 </p>
 
 > # You can use this
