@@ -25,7 +25,7 @@
   <b> -> -> unflag_horse-made-of-clouds, unflag_lion, unflag_domestic-cat, unflag_lion-with-mane-on-its-neck</b><br>
   <b> -> -> unflag_living-room, unflag_motorboat, unflag_motorbus, unflag_motorcycle, unflag_sailboat</b><br>
   <b> -> -> unflag_seaplane, unflag_smiling-dog, unflag_train, unflag_truck, unflag_vertical-river</b><br>
-  <b> -> -> Total 41 classes</b>
+  <b> -> Total 41 classes</b>
 </p>
 
 # You can use this
